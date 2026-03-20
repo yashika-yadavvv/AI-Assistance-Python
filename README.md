@@ -70,6 +70,6 @@ This project holds a special place — it was built during my Diploma in Compute
 Now as a CSE student diving deeper into AI, I rebuilt it from scratch with proper architecture, LLM integration, and a floating UI.
 
 ## DEMO
-![Jarvis UI](screenshots/AI.png)
+![Jarvis UI](screenshots/AI.jpeg)
 Still growing. Still learning. 🚀
 Made with ❤️ by Yashika Yadav
