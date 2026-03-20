@@ -68,5 +68,8 @@ python main.py
 👩‍💻 About This Project
 This project holds a special place — it was built during my Diploma in Computer Science as a final year project. Back then, voice assistants felt like magic to me.
 Now as a CSE student diving deeper into AI, I rebuilt it from scratch with proper architecture, LLM integration, and a floating UI.
+
+## DEMO
+![Jarvis UI](screenshots/AI.png)
 Still growing. Still learning. 🚀
 Made with ❤️ by Yashika Yadav

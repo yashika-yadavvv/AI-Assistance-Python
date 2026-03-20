@@ -3,7 +3,7 @@
 # ============================================
 
 # OpenAI API Key (baad mein add karna)
-OPENAI_API_KEY = "your-groq-api-key-here"
+OPENAI_API_KEY = "YOUR-GORQ-API-KEY-HERE"
 
 # Assistant Name
 ASSISTANT_NAME = "Jarvis"
