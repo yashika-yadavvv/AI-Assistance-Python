@@ -3,7 +3,7 @@
 # ============================================
 
 # OpenAI API Key (baad mein add karna)
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "your-groq-api-key-here"
 
 # Assistant Name
 ASSISTANT_NAME = "Jarvis"
